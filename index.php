@@ -1,6 +1,7 @@
 <?php
 session_start();
 set_time_limit(0);
+
 require_once 'cfg/config.inc.php';
 
 /** establishing starting values when not set by users prefs or action */
