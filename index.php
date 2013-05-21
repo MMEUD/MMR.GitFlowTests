@@ -10,5 +10,5 @@ $p=(isset($_GET['p']) && $_GET['p']>0) ? $_GET['p'] : 1; /** Current navigation 
 $s=(isset($_GET['s']) && $_GET['s']!='') ? $_GET['s'] : 'unk'; /** Current navigation subpage */
 $l=(isset($_GET['l']) && $_GET['l']!='') ? $_GET['l'] : 'en_EN';  /** Current language */
 
-
+//
 ?>
