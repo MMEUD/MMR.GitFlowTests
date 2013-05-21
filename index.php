@@ -12,4 +12,5 @@ $l=(isset($_GET['l']) && $_GET['l']!='') ? $_GET['l'] : 'en_EN';  /** Current la
 
 $d3 = ';';
 $d4 = ';';
+$d5 = '';
 ?>
